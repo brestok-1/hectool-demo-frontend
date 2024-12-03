@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hectool-demo-frontend/static/css/main.312a0b16.css",
-    "main.js": "/hectool-demo-frontend/static/js/main.477470b3.js",
-    "index.html": "/hectool-demo-frontend/index.html",
-    "main.312a0b16.css.map": "/hectool-demo-frontend/static/css/main.312a0b16.css.map",
-    "main.477470b3.js.map": "/hectool-demo-frontend/static/js/main.477470b3.js.map"
+    "main.css": "https://brestok-1.github.io/hectool-demo-frontend/static/css/main.312a0b16.css",
+    "main.js": "https://brestok-1.github.io/hectool-demo-frontend/static/js/main.3c2a22c0.js",
+    "index.html": "https://brestok-1.github.io/hectool-demo-frontend/index.html",
+    "main.312a0b16.css.map": "https://brestok-1.github.io/hectool-demo-frontend/static/css/main.312a0b16.css.map",
+    "main.3c2a22c0.js.map": "https://brestok-1.github.io/hectool-demo-frontend/static/js/main.3c2a22c0.js.map"
   },
   "entrypoints": [
     "static/css/main.312a0b16.css",
-    "static/js/main.477470b3.js"
+    "static/js/main.3c2a22c0.js"
   ]
 }
